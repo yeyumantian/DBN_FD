@@ -12,4 +12,7 @@ make_data.py已整理
 4.classic_ml.ipynb - 加载经典模型的训练结果。
 #11.22优化-加载异样本的训练和测试集合,对比了实验
 
+5.DBN_model.ipynb - DBN基础模型
+已经整合到main.py
+
 
